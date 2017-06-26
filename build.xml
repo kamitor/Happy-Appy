@@ -78,6 +78,8 @@
   <mkdir dir="${basedir}/build/logs"/>
   <mkdir dir="${basedir}/build/pdepend"/>
   <mkdir dir="${basedir}/build/phpdox"/>
+  <mkdir dir="${basedir}/src"/>
+  <mkdir dir="${basedir}/tests"/>
   <property name="prepare.done" value="true"/>
  </target>
 
